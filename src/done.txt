@@ -1,0 +1,16 @@
+1. IMazeBuilder
+2. StandardBuilderMaze
+3. Opposite Direction
+4. getRoom Maze
+5. createMaze (line 30) MazeGame
+6. CountingMazeBuilder
+
+7. MazeFactory
+8. createMaze v3.0 in MazeGame class
+//todo: comment that this implementation is stupid and not-optimal - add new builder implementation
+9. EnchantedMazeFactory
+10. EnchantedMazeElements
+11. BombedMazeFactory
+12. BombedMazeElements
+
+13. Edited MazeFactory (added singleton pattern) - getter modifications
